@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain_community
+langchain-classic
+ipykernel
+streamlit
+fastapi
+langserve
+uvicorn
+sse_starlette
+langchain-objectbox
